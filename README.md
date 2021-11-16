@@ -56,7 +56,9 @@ $ npm run demo-ui
 ```
 
 ### UI and features
-<img src="img/main_page.png" alt="Example UI" width="80%"/>
+![main_page](https://user-images.githubusercontent.com/39155036/141940668-7acc4875-9449-46ca-899f-f8e86d33d7ff.png)
+
+
 
 _Example UI with modern web browser._
 
